@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/EOmYN5kVP3W2Lyn6dx" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/CGBOT-mood-computer-devbot-EOmYN5kVP3W2Lyn6dx">via GIPHY</a></p>"
+<iframe src="https://giphy.com/embed/jTHti8z6rjrUZmBgOp" width="248" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kodewithklossy-kwk-kode-with-klossy-jTHti8z6rjrUZmBgOp">via GIPHY</a></p>
