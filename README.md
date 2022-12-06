@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Jasmin-rios/Jasmin-rios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<img scr="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width= "500px"/>
+- 
+<img src="https://media.giphy.com/media/jTHti8z6rjrUZmBgOp/giphy.gif" width= "500px"/>
